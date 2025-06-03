@@ -1,0 +1,10 @@
+openai-agents
+chainlit==0.7.700
+python-dotenv==1.0.0
+requests==2.31.0
+websockets==12.0
+deep-translator==1.11.4
+sendgrid==6.11.2
+beautifulsoup4>=4.9.3
+markdown>=3.3.4
+html2text>=2020.1.16

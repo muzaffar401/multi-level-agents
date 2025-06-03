@@ -1,0 +1,15 @@
+[project]
+name = "04-hello-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.5.5",
+    "deep-translator>=1.11.4",
+    "geopy>=2.4.1",
+    "googletrans>=4.0.2",
+    "markdown>=3.8",
+    "openai-agents>=0.0.16",
+    "sendgrid>=6.12.3",
+]
