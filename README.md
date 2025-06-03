@@ -115,8 +115,8 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/muzaffar401/multi-level-agents
+cd multi-level-agents
 ```
 
 2. Create and activate virtual environment:
@@ -128,7 +128,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
-pip install agents-sdk  # Install OpenAI Agent SDK
+pip install openai-agents  # Install OpenAI Agent SDK
 ```
 
 4. Create a `.env` file with your API keys:
